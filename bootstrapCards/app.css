@@ -1,0 +1,25 @@
+.img-thumbnail {
+    margin-bottom: 5%;
+}
+
+body {
+    padding-top: 70px;
+}
+
+.jumbotron {
+    font-family: Merriweather;
+    background: #ecf0f1;
+    color: #2c3e50;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+h1 {
+    font-weight: bold;
+}
